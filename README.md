@@ -1,1 +1,2 @@
-# InteractiveNYCUrbanForest
+npm install
+npm run dev
